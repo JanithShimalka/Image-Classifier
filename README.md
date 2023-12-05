@@ -5,11 +5,11 @@ Deeplearn model for image classification
 <img src = "Screenshots/main.PNG">
 <br><br>
 
-<h1>Main Prediction Cat</h1>
+<h1>Cat</h1>
 <img src = "Screenshots/cat.PNG">
 <br><br>
 
-<h1>Main Prediction Dog</h1>
+<h1>Dog</h1>
 <img src = "Screenshots/dog.PNG">
 <br><br>
 
